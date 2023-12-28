@@ -1,12 +1,27 @@
 <h1 align="center">Hi there 👋, I'm Ed</h1>
 <h3 align="center">A passionate data scientist from the UK</h3>
-<h5 align="left">Welcome to my profile, feel free to take a look at some of my ongoing projects 💻 ! Please don't hesitate to get in touch if you have any questions about my projects or potential job opportunties📱!
+<h5 align="center">Welcome to my profile, feel free to take a look at some of my ongoing projects 💻 ! Please don't hesitate to get in touch if you have any questions about my projects or potential job opportunties📱!
+
+<h3 align="center">A little about me</h3>
+
+Enthusiatic data scientist with over a year of programming experience and 3 years in the construction industry as a structural engineer. Having recently completed a bootcamp in Data Science and AI, I am currently working on a number of personal projects as I actively search for a full time role as a data scientist. 
+
+<h3 align="center">Navigating my Github</h3>
+
+My coding journey started in 2022 as I taught myself basic web development with HTML5, CSS and Javascript using codecademy (All repos between Jan 2022 - July 2022). The culmination of this can be seen on my web dev porfolio web page, it summarises the projects I completed following the codecademy programme and can be found here: <a href="https://linkedin.com/in/https://www.linkedin.com/in/edward-brown96/" target="blank">, the code for this web page is here: [web dev portfolio webpage](https://github.com/E-Brown96/Portfolio-Website)
+
+I decided to undertake the Le Wagon Data Science and AI bootcamp to help with my intended career switch from engineering to data science. My repos from October 2023 - December 2023 are all the challenges I did as part of the course and consist of everything from basic python code, SQL basics, data visualisation to machine learning, deep learning and ML Ops. The key projects from the course were:
+- 🪙 A crypto market predictor, where I worked as part of a team of 4 to develop a model that could predict the crypto market (https://github.com/E-Brown96/crypto_market_assistant) 
+- 📲 The frontend for the crypto market predictor, which I developed for the crypto market predictor (https://github.com/E-Brown96/crypto_assist_UI)
+- 🎖️ A kaggle competition predicting house sale prices using advanced regression techniques (https://github.com/E-Brown96/data-houses-kaggle-competition)
+
+Since completing the bootcamp I am continuing my learning and development by working on personal projects, below are some of my favourites:
 
 - 🔭 I’m currently working on [a crypto market predictor](https://github.com/E-Brown96/crypto_market_assistant.git)
+The aim of this project is to predict the price of bitcoin using models from the DARTS library, I am currently in the process of adding additional data features and adjusting the model.
 
+If you're curious about any of my projects or would be interested in collaborating with me on a future project get in touch:
 - 📫 How to reach me **edb56@live.co.uk**
-
-Enthusiatic data scientist 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
