@@ -66,10 +66,10 @@ Integrated Development Environment: Jupyter-Notebook
 
 <h3 align="left">🏅 Badges 🏅<h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-brown96&show_icons=true&locale=en&layout=compact" alt="e-brown96" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=e-brown96&show_icons=true&locale=en&layout=compact" alt="e-brown96" /></p>
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=e-brown96&show_icons=true&locale=en" alt="e-brown96" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=e-brown96&show_icons=true&locale=en" alt="e-brown96" /></p>
 <br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=e-brown96&" alt="e-brown96" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=e-brown96&" alt="e-brown96" /></p>
