@@ -21,7 +21,9 @@
 
 - 👨‍🔬 I decided to undertake the Le Wagon Data Science and AI bootcamp to help with my intended career switch from engineering to data science. 
 
-- 🧪 My repos from October 2023 - December 2023 are all the challenges I did as part of the course and consist of everything from basic python code, SQL basics, data visualisation to machine learning, deep learning and ML Ops. The key projects from the course were:
+- 🧪 My repos from October 2023 - December 2023 are all the challenges I did as part of the course and consist of everything from basic python code, SQL basics, data visualisation to machine learning, deep learning and ML Ops.
+
+My key projects from the course were:
 
 - 🪙 A crypto market predictor, where I worked as part of a team of 4 to develop a model that could predict the crypto market 👉 [see here](https://github.com/E-Brown96/crypto_market_assistant) 👈
 - 📲 The frontend for the crypto market predictor, which I developed for the crypto market predictor 👉 [see here](https://github.com/E-Brown96/crypto_assist_UI) 👈
