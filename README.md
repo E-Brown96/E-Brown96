@@ -11,12 +11,6 @@
 
 <h3 align="center">🗺️ Navigating my Github 🗺️</h3>
 
-<h4 align="left">🌎 Web Dev Projects</h4>
-
-- 🚀 My coding journey started in 2022 as I taught myself basic web development with HTML5, CSS and Javascript using codecademy (All repos between Jan 2022 - July 2022). 
-
-- 🌎 The culmination of this can be seen on my web dev porfolio web page, it summarises the projects I completed following the codecademy programme and can be found here: <a href="https://e-brown96.github.io/Portfolio-Website/" target="_blank">my portfolio website</a>, the code for this web page is here: 👉 [see here](https://github.com/E-Brown96/Portfolio-Website) 👈
-
 <h4 align="left">🧬 Data Science Projects</h4>
 
 - 👨‍🔬 I decided to undertake the Le Wagon Data Science and AI bootcamp to help with my intended career switch from engineering to data science. 
@@ -28,6 +22,12 @@ My key projects from the course were:
 - 🪙 A crypto market predictor, where I worked as part of a team of 4 to develop a model that could predict the crypto market 👉 [see here](https://github.com/E-Brown96/crypto_market_assistant) 👈
 - 📲 The frontend for the crypto market predictor, which I developed for the crypto market predictor 👉 [see here](https://github.com/E-Brown96/crypto_assist_UI) 👈
 - 🎖️ A kaggle competition predicting house sale prices using advanced regression techniques 👉 [see here](https://github.com/E-Brown96/data-houses-kaggle-competition) 👈
+
+<h4 align="left">🌎 Web Dev Projects</h4>
+
+- 🚀 My coding journey started in 2022 as I taught myself basic web development with HTML5, CSS and Javascript using codecademy (All repos between Jan 2022 - July 2022). 
+
+- 🌎 The culmination of this can be seen on my web dev porfolio web page, it summarises the projects I completed following the codecademy programme and can be found here: <a href="https://e-brown96.github.io/Portfolio-Website/" target="_blank">my portfolio website</a>, the code for this web page is here: 👉 [see here](https://github.com/E-Brown96/Portfolio-Website) 👈
 
 <h4 align="left">💻 Personal Projects</h4>
 
@@ -67,7 +67,9 @@ Integrated Development Environment: Jupyter-Notebook
 <h3 align="left">🏅 Badges 🏅<h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-brown96&show_icons=true&locale=en&layout=compact" alt="e-brown96" /></p>
+<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=e-brown96&show_icons=true&locale=en" alt="e-brown96" /></p>
+<br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=e-brown96&" alt="e-brown96" /></p>
