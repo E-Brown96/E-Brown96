@@ -13,24 +13,28 @@
 
 <h4 align="left">🌎 Web Dev Projects</h4>
 
-🚀 My coding journey started in 2022 as I taught myself basic web development with HTML5, CSS and Javascript using codecademy (All repos between Jan 2022 - July 2022). 
+- 🚀 My coding journey started in 2022 as I taught myself basic web development with HTML5, CSS and Javascript using codecademy (All repos between Jan 2022 - July 2022). 
 
-🌎 The culmination of this can be seen on my web dev porfolio web page, it summarises the projects I completed following the codecademy programme and can be found here: <a href="https://e-brown96.github.io/Portfolio-Website/" target="_blank">my portfolio website</a>, the code for this web page is here: 👉 [see here](https://github.com/E-Brown96/Portfolio-Website) 👈
+- 🌎 The culmination of this can be seen on my web dev porfolio web page, it summarises the projects I completed following the codecademy programme and can be found here: <a href="https://e-brown96.github.io/Portfolio-Website/" target="_blank">my portfolio website</a>, the code for this web page is here: 👉 [see here](https://github.com/E-Brown96/Portfolio-Website) 👈
 
 <h4 align="left">🧬 Data Science Projects</h4>
 
-👨‍🔬 I decided to undertake the Le Wagon Data Science and AI bootcamp to help with my intended career switch from engineering to data science. 
+- 👨‍🔬 I decided to undertake the Le Wagon Data Science and AI bootcamp to help with my intended career switch from engineering to data science. 
 
-🧪 My repos from October 2023 - December 2023 are all the challenges I did as part of the course and consist of everything from basic python code, SQL basics, data visualisation to machine learning, deep learning and ML Ops. The key projects from the course were:
+- 🧪 My repos from October 2023 - December 2023 are all the challenges I did as part of the course and consist of everything from basic python code, SQL basics, data visualisation to machine learning, deep learning and ML Ops. The key projects from the course were:
 
 - 🪙 A crypto market predictor, where I worked as part of a team of 4 to develop a model that could predict the crypto market 👉 [see here](https://github.com/E-Brown96/crypto_market_assistant) 👈
 - 📲 The frontend for the crypto market predictor, which I developed for the crypto market predictor 👉 [see here](https://github.com/E-Brown96/crypto_assist_UI) 👈
 - 🎖️ A kaggle competition predicting house sale prices using advanced regression techniques 👉 [see here](https://github.com/E-Brown96/data-houses-kaggle-competition) 👈
 
+<h4 align="left">💻 Personal Projects</h4>
+
 Since completing the bootcamp I am continuing my learning and development by working on personal projects, below are some of my favourites:
 
 - 🔭 I’m currently working on a [crypto market predictor](https://github.com/E-Brown96/crypto_market_assistant.git). 
 The aim of this project is to predict the price of bitcoin using models from the DARTS library, I am currently in the process of adding additional data features and adjusting the model.
+
+<h4 align="left">📧 Get in Touch</h4>
 
 If you're curious about any of my projects or would be interested in collaborating with me on a future project get in touch:
 - 📫 How to reach me **edb56@live.co.uk**
