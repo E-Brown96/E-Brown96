@@ -11,9 +11,13 @@
 
 <h3 align="center">🗺️ Navigating my Github 🗺️</h3>
 
+<h4 align="left">🌎 Web Dev Projects</h4>
+
 🚀 My coding journey started in 2022 as I taught myself basic web development with HTML5, CSS and Javascript using codecademy (All repos between Jan 2022 - July 2022). 
 
 🌎 The culmination of this can be seen on my web dev porfolio web page, it summarises the projects I completed following the codecademy programme and can be found here: <a href="https://e-brown96.github.io/Portfolio-Website/" target="_blank">my portfolio website</a>, the code for this web page is here: 👉 [see here](https://github.com/E-Brown96/Portfolio-Website) 👈
+
+<h4 align="left">🧬 Data Science Projects</h4>
 
 👨‍🔬 I decided to undertake the Le Wagon Data Science and AI bootcamp to help with my intended career switch from engineering to data science. 
 
