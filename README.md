@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ed</h1>
 <h3 align="center">A passionate data scientist from the UK</h3>
-<h5 align="center">Welcome to my profile, feel free to take a look at some of my ongoing projects 💻 !</h5> 
-<h5 align="center">Please don't hesitate to get in touch if you have any questions about my projects or potential job opportunties📱!</h5>
+<h5 align="center">💻 Welcome to my profile, feel free to take a look at some of my ongoing projects!</h5> 
+<h5 align="center">📱 Please don't hesitate to get in touch if you have any questions about my projects or potential job opportunties!</h5>
 
 <h3 align="center">👇 A little about me 👇</h3>
 
