@@ -33,6 +33,9 @@ My key projects from the course were:
 - 🪙 A crypto market predictor, where I worked as part of a team of 4 to develop a model that could predict the crypto market 👉 [see here](https://github.com/E-Brown96/crypto_market_assistant) 👈
 - 📲 The frontend for the crypto market predictor, which I developed for the crypto market predictor 👉 [see here](https://github.com/E-Brown96/crypto_assist_UI) 👈
 - 🎖️ A kaggle competition predicting house sale prices using advanced regression techniques 👉 [see here](https://github.com/E-Brown96/data-houses-kaggle-competition) 👈
+- 💸 A data analysis task of an E-commerce site to help determine an effective solution to their poor sellers 👉 [see here](https://github.com/E-Brown96/data-recap_ceo_request) 👈
+
+For a more detailed overview of my data science and analysis projects please take a look at my [portfolio](https://shard-tapir-c41.notion.site/Ed-Brown-Portfolio-3b6043c5053b401f9cd785b288095d4f?pvs=4).
 
 <h4 align="left">🌎 Web Dev Projects</h4>
 
