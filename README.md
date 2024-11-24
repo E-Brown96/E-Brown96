@@ -14,17 +14,26 @@
 
 <h2 id="about-me" align="center">👇 A little about me 👇</h2>
 
-⚡️ Enthusiatic data scientist with over a year of programming experience and, prior to my career switch, 3 years in the construction industry as a structural engineer. 
+⚡️ Enthusiatic data scientist with over a year of programming experience both working as an Insights Analyst and a freelance Data Scientist with multiple clients and, prior to my career switch, 3 years in the construction industry as a structural engineer. 
 
-⚡️ Having recently completed a bootcamp in Data Science and AI, I am currently working on a number of personal projects as I actively search for a full time role as a data scientist. 
+⚡️ I am currently working as an Inisghts Analyst for Savills and a freelance Data Scientist with award winning clients. I've worked on a variety of projects utilising my technical skills developing machine learning models, end-to-end internal applications, pipelines, data analysis. One focus I pride myself on is my ability to be able to translate my solutions for non-technical stakeholders ensuring they fully grasp how they can make the most use of an app or dashboard.
 
-⚡️ I possess a client focused mindset and have a genuine passion for data and am excited to apply my technical abilities and creativity to contribute my skills within the data science industry.
+⚡️ I possess a client focused mindset and have a genuine passion for data and am excited to apply my technical abilities and creativity to contribute my skills within the data science industry. I thrive on open ended business problems where I can think outside the box and develop entire end-to-end solutions. 
 
 <h2 id="my-github" align="center">🗺️ Navigating my Github 🗺️</h2>
 
 <h4 id="projects" align="left">🧬 Data Science Projects</h4>
 
-- 👨‍🔬 I decided to undertake the Le Wagon Data Science and AI bootcamp to help with my intended career switch from engineering to data science. 
+- As an Insights Analyst at Savills, I specialise in data-driven decision-making, employing Python, SQL, and Google Cloud Platform to deliver actionable insights for marketing and housing. My expertise includes building advanced dashboards, automating workflows, and optimising machine learning models to enhance business outcomes. Below are three key projects highlighting technical skills and impact:
+  - Query Automation System: Designed and implemented a system automating mailing list requests, integrating Monday.com and Salesforce. Leveraged SQL for data extraction in BigQuery and GCP functions to process and send mailing lists automatically. Conducted team training via demos and webinars to ensure smooth adoption. Result: Streamlined processes, reducing manual intervention and improving efficiency.
+  - XGBoost Model Optimisation: Enhanced the accuracy of an XGBoost model from 60% to 97% by engineering new features and optimising hyperparameters. Deployed the optimised model on Google Cloud for daily predictions, ensuring real-time insights from current datasets. Result: Improved predictive accuracy, driving better decision-making in marketing strategies.
+  - Audience Analysis Dashboard: Built an interactive Looker dashboard using advanced SQL queries and CTEs to analyse audience trends across regions. Provided insights into growth areas and marketing priorities, enabling data-driven decisions. Presented the dashboard to marketing leadership, securing alignment on strategic objectives. Result: Empowered marketing teams with clear, actionable insights.
+ 
+- As a freelance data scientist, I deliver tailored solutions to clients by applying advanced analytics, machine learning, and cloud infrastructure. My recent work highlights a focus on unbiased ranking systems and econometric modeling, leveraging Python, TensorFlow, Pandas, and Google Cloud. Below are two key projects demonstrating my expertise:
+  - Ranking System Development for Send it to Alex: Designed a ranking system to recommend solutions without bias for a tool supporting neurodivergent individuals and their employers. Developed a hierarchy-based system combining three weighting techniques and applied coefficients to ensure recommendations are personalised and unbiased. Built the backend in Python and deployed on Google Cloud Run, integrating with a live app via APIs. Result: Delivered a scalable and effective solution aligning with client needs
+  - Econometrics Modeling for Private Client: Conducted analysis of a large, diverse dataset to generate actionable insights through econometric modeling. Utilised statsmodels for statistical analysis and Sklearn for data preprocessing, presenting findings in a detailed, interactive Jupyter notebook. Created data visualisations with Seaborn and Matplotlib to effectively communicate results. Result: Provided the client with clear, data-backed recommendations for their strategic decisions.
+
+- 👨‍🔬 I decided to undertake the Le Wagon Data Science and AI bootcamp to help with my intended career switch from engineering to data science.
 
 - 🧪 My repos from October 2023 - December 2023 are all the challenges I did as part of the course and consist of everything from basic python code, SQL basics, data visualisation to machine learning, deep learning and ML Ops.
 
@@ -63,19 +72,23 @@ If you're curious about any of my projects or would be interested in collaborati
 <h2 id="skills" align="left">⚡️ Skills: ⚡️</h2>
 <p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-During my bootcamp I developed the following skills:
+During my work as an Insights Analyst and Data Scientist I developed the following skills:
 
 🎯 Mastered Data Science using Python and Jupyter
 
 🎯 Data Analytics with SQL, BigQuery, Pandas, Numpy, and Matplotlib
 
-🎯 Data visualisation with Scipy, Seaborn, and Statsmodels
+🎯 Mastering cloud development within the Google Cloud Platform, focusing on Big Query, Data Fusion, Google Cloud Storage and Cloud Run
+
+🎯 Data visualisation with Looker Studio, Scipy, Seaborn, and Statsmodels
 
 🎯 Machine Learning with Scikit-learn & PyTorch
 
 🎯 Deep Learning with TensorFlow Keras 
 
-🎯 Data extraction using APIs and web scraping
+🎯 Data extraction using APIs, web scraping and creation of various pipeline tools
+
+🎯 Full end-to-end app deverlopment on the GCP infratstrucure, utilising stakeholder CRM's such as Monday.com and Salesforce
 
 🎯 Prepared data products with Google Cloud Platform, ML Flow, and Streamlit
 
