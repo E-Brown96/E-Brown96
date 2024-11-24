@@ -14,9 +14,9 @@
 
 <h2 id="about-me" align="center">👇 A little about me 👇</h2>
 
-⚡️ Enthusiatic data scientist with over a year of programming experience both working as an Insights Analyst and a freelance Data Scientist with multiple clients and, prior to my career switch, 3 years in the construction industry as a structural engineer. 
+⚡️ Enthusiatic data scientist with experience working as both an Insights Analyst and a freelance Data Scientist with multiple clients and, prior to my career switch, 3 years in the construction industry as a structural engineer. 
 
-⚡️ I am currently working as an Inisghts Analyst for Savills and a freelance Data Scientist with award winning clients. I've worked on a variety of projects utilising my technical skills developing machine learning models, end-to-end internal applications, pipelines, data analysis. One focus I pride myself on is my ability to be able to translate my solutions for non-technical stakeholders ensuring they fully grasp how they can make the most use of an app or dashboard.
+⚡️ I've worked on a variety of projects utilising my technical skills developing machine learning models, end-to-end internal applications, pipelines, data analysis. One focus I pride myself on is my ability to be able to translate my solutions for non-technical stakeholders ensuring they fully grasp how they can make the most use of an app or dashboard.
 
 ⚡️ I possess a client focused mindset and have a genuine passion for data and am excited to apply my technical abilities and creativity to contribute my skills within the data science industry. I thrive on open ended business problems where I can think outside the box and develop entire end-to-end solutions. 
 
